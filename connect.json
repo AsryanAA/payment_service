@@ -1,0 +1,7 @@
+{
+  "HOST_DB" : "localhost",
+  "PORT_DB" : "5432",
+  "User" : "postgres",
+  "Password" : "password",
+  "DATA_BASE" : "payment_service"
+}
